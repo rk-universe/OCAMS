@@ -1,0 +1,144 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"bdrahul"},
+{"type":"table","name":"isecure","database":"bdrahul","data":
+[
+{"sr":"13","username":"rahul","password":"kum"},
+{"sr":"15","username":"beha","password":""},
+{"sr":"16","username":"neha","password":"n"},
+{"sr":"17","username":"h","password":"w"}
+]
+}
+,{"type":"table","name":"management","database":"bdrahul","data":
+[
+
+]
+}
+{"type":"database","name":"ocams"},
+,{"type":"table","name":"addmission","database":"ocams","data":
+[
+{"form_status":"1","sr":"12","f_name":"rahul","l_name":"kumawat","dob":"2003-01-24","email":"kumawatrahul960@gmail.com","mobile":"0","gender":"Male","address":"koperkhairne","city":"navi mumbai","pin":"400709","state":"maharashtr","country":"India","classX_b":"mah","classX_p":"80","classX_y":"2018","class12_b":"mah","class12_p":"73","class12_y":"2020","cet_b":"mah","cet_p":"10","cet_y":"2020","course":"Computer Science And Engineering (AIML)","YOA":"2022"},
+{"form_status":"1","sr":"38","f_name":"prince ","l_name":"yadav","dob":"2022-04-05","email":"e@gmail.com","mobile":"8108","gender":"","address":"","city":"","pin":"0","state":"","country":"India","classX_b":"mah","classX_p":"0","classX_y":"0000","class12_b":"","class12_p":"0","class12_y":"0000","cet_b":"","cet_p":"0","cet_y":"0000","course":"Computer Science And Engineering (IOT)","YOA":"2022"},
+{"form_status":"2","sr":"44","f_name":"abhis","l_name":"","dob":"0000-00-00","email":"eq@gmail.com","mobile":"444444","gender":"","address":"","city":"","pin":"0","state":"","country":"India","classX_b":"mah","classX_p":"0","classX_y":"0000","class12_b":"","class12_p":"0","class12_y":"0000","cet_b":"","cet_p":"0","cet_y":"0000","course":"","YOA":"2022"},
+{"form_status":"1","sr":"58","f_name":"lekhraj","l_name":"kumawat","dob":"0000-00-00","email":"lekhraj.2@gmail.com","mobile":"932222688","gender":"","address":"sanpada","city":"navi mumabi","pin":"401458","state":"maharashtr","country":"India","classX_b":"mah","classX_p":"2","classX_y":"0000","class12_b":"","class12_p":"0","class12_y":"0000","cet_b":"","cet_p":"0","cet_y":"0000","course":"Electrical Engineering","YOA":"2022"},
+{"form_status":"1","sr":"59","f_name":"manish","l_name":"guta","dob":"0000-00-00","email":"chutita@gmail.com","mobile":"7845625","gender":"Male","address":"jhcj jchdhch  jbjhdc jbc w","city":"navi mumbai","pin":"400709","state":"mah","country":"India","classX_b":"mah","classX_p":"22","classX_y":"2054","class12_b":"mah","class12_p":"22","class12_y":"2000","cet_b":"mah","cet_p":"11","cet_y":"2011","course":"Mechinacal Engineering","YOA":"2022"},
+{"form_status":"2","sr":"60","f_name":"j","l_name":"n","dob":"2022-04-26","email":"jk@gmail.com","mobile":"2147483647","gender":"Male","address":"dnjwj hedh  d huiwd ","city":"navi mumbai","pin":"400709","state":"hjbhbhj","country":"India","classX_b":"h","classX_p":"22","classX_y":"2054","class12_b":"n ","class12_p":"11","class12_y":"2018","cet_b":"mah","cet_p":"11","cet_y":"2011","course":"Computer Science And Engineering (Data Science)","YOA":"2022"},
+{"form_status":"1","sr":"63","f_name":"iin","l_name":"kumawat","dob":"2022-04-05","email":"bj@gmail.com","mobile":"54655255","gender":"Male","address":"jwhshws  u dhdu he d hdde","city":"jkj","pin":"4004","state":"hjbhb","country":"India","classX_b":"mah","classX_p":"22","classX_y":"2054","class12_b":"hbhjh","class12_p":"11","class12_y":"2018","cet_b":"mah","cet_p":"11","cet_y":"2011","course":"Computer Science And Engineering (IOT)","YOA":"2022"},
+{"form_status":"2","sr":"64","f_name":"j","l_name":"","dob":"2022-04-28","email":"gg@gmail.com","mobile":"51515","gender":"Male","address":"d3e","city":"","pin":"0","state":"","country":"India","classX_b":"","classX_p":"0","classX_y":"0000","class12_b":"","class12_p":"0","class12_y":"0000","cet_b":"","cet_p":"0","cet_y":"0000","course":"Computer Science And Engineering (AIML)","YOA":"2022"},
+{"form_status":null,"sr":"70","f_name":"e","l_name":"b","dob":"2022-04-12","email":"r@gmal.com","mobile":"555652552","gender":"Male","address":"","city":"","pin":"0","state":"","country":"India","classX_b":"","classX_p":"0","classX_y":"0000","class12_b":"","class12_p":"0","class12_y":"0000","cet_b":"","cet_p":"0","cet_y":"0000","course":"Computer Science And Engineering (IOT)","YOA":"2022"},
+{"form_status":null,"sr":"71","f_name":"lekhraj","l_name":"kumawat","dob":"0000-00-00","email":"lekj.52@gmail.com","mobile":"93222","gender":"","address":"sanpada","city":"navi mumabi","pin":"401458","state":"maharashtr","country":"India","classX_b":"","classX_p":"0","classX_y":"0000","class12_b":"","class12_p":"0","class12_y":"0000","cet_b":"","cet_p":"0","cet_y":"0000","course":"","YOA":"2022"},
+{"form_status":null,"sr":"72","f_name":"abc","l_name":"bcf","dob":"2022-04-06","email":"abc@gmail.com","mobile":"123456752","gender":"Female","address":"wendn  hiddc ic","city":"navi mumbai","pin":"400709","state":"maharashtr","country":"India","classX_b":"mah","classX_p":"80","classX_y":"2018","class12_b":"mah","class12_p":"73","class12_y":"2020","cet_b":"mah","cet_p":"10","cet_y":"2020","course":"Mechinacal Engineering","YOA":"2022"}
+]
+}
+,{"type":"table","name":"management","database":"ocams","data":
+[
+{"sr":"1","f_name":"neha","l_name":"k","email":"k@gmail.com","password":"n"},
+{"sr":"2","f_name":"lekhraj","l_name":"kumawat","email":"lekhraj.52@gmail.com","password":"l"},
+{"sr":"3","f_name":"ab","l_name":"bc","email":"ab@gmail.com","password":"ab"}
+]
+}
+,{"type":"table","name":"student","database":"ocams","data":
+[
+{"sr":"8","f_name":"prince","l_name":"yadav","email":"prince@gmail.com","password":"p"},
+{"sr":"9","f_name":"j","l_name":"k","email":"jk@gmail.com","password":"jk"},
+{"sr":"10","f_name":"rahul","l_name":"kumawat","email":"rahulkumawat_aiml_2020@ltce.in","password":"r"}
+]
+}
+{"type":"database","name":"phpmyadmin"},
+,{"type":"table","name":"pma__bookmark","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__central_columns","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__column_info","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__designer_settings","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__export_templates","database":"phpmyadmin","data":
+[
+{"id":"1","username":"root","export_type":"server","template_name":"OCAMS_BATABASE","template_data":"{\"quick_or_custom\":\"quick\",\"what\":\"sql\",\"db_select[]\":[\"bdrahul\",\"ocams\",\"phpmyadmin\",\"test\"],\"aliases_new\":\"\",\"output_format\":\"sendit\",\"filename_template\":\"@SERVER@\",\"remember_template\":\"on\",\"charset\":\"utf-8\",\"compression\":\"none\",\"maxsize\":\"\",\"codegen_structure_or_data\":\"data\",\"codegen_format\":\"0\",\"csv_separator\":\",\",\"csv_enclosed\":\"\\\"\",\"csv_escaped\":\"\\\"\",\"csv_terminated\":\"AUTO\",\"csv_null\":\"NULL\",\"csv_structure_or_data\":\"data\",\"excel_null\":\"NULL\",\"excel_columns\":\"something\",\"excel_edition\":\"win\",\"excel_structure_or_data\":\"data\",\"json_structure_or_data\":\"data\",\"json_unicode\":\"something\",\"latex_caption\":\"something\",\"latex_structure_or_data\":\"structure_and_data\",\"latex_structure_caption\":\"Structure of table @TABLE@\",\"latex_structure_continued_caption\":\"Structure of table @TABLE@ (continued)\",\"latex_structure_label\":\"tab:@TABLE@-structure\",\"latex_relation\":\"something\",\"latex_comments\":\"something\",\"latex_mime\":\"something\",\"latex_columns\":\"something\",\"latex_data_caption\":\"Content of table @TABLE@\",\"latex_data_continued_caption\":\"Content of table @TABLE@ (continued)\",\"latex_data_label\":\"tab:@TABLE@-data\",\"latex_null\":\"\\\\textit{NULL}\",\"mediawiki_structure_or_data\":\"data\",\"mediawiki_caption\":\"something\",\"mediawiki_headers\":\"something\",\"htmlword_structure_or_data\":\"structure_and_data\",\"htmlword_null\":\"NULL\",\"ods_null\":\"NULL\",\"ods_structure_or_data\":\"data\",\"odt_structure_or_data\":\"structure_and_data\",\"odt_relation\":\"something\",\"odt_comments\":\"something\",\"odt_mime\":\"something\",\"odt_columns\":\"something\",\"odt_null\":\"NULL\",\"pdf_report_title\":\"\",\"pdf_structure_or_data\":\"data\",\"phparray_structure_or_data\":\"data\",\"sql_include_comments\":\"something\",\"sql_header_comment\":\"\",\"sql_use_transaction\":\"something\",\"sql_compatibility\":\"NONE\",\"sql_structure_or_data\":\"structure_and_data\",\"sql_create_table\":\"something\",\"sql_auto_increment\":\"something\",\"sql_create_view\":\"something\",\"sql_create_trigger\":\"something\",\"sql_backquotes\":\"something\",\"sql_type\":\"INSERT\",\"sql_insert_syntax\":\"both\",\"sql_max_query_size\":\"50000\",\"sql_hex_for_binary\":\"something\",\"sql_utc_time\":\"something\",\"texytext_structure_or_data\":\"structure_and_data\",\"texytext_null\":\"NULL\",\"yaml_structure_or_data\":\"data\",\"\":null,\"as_separate_files\":null,\"csv_removeCRLF\":null,\"csv_columns\":null,\"excel_removeCRLF\":null,\"json_pretty_print\":null,\"htmlword_columns\":null,\"ods_columns\":null,\"sql_dates\":null,\"sql_relation\":null,\"sql_mime\":null,\"sql_disable_fk\":null,\"sql_views_as_tables\":null,\"sql_metadata\":null,\"sql_drop_database\":null,\"sql_drop_table\":null,\"sql_if_not_exists\":null,\"sql_simple_view_export\":null,\"sql_view_current_user\":null,\"sql_or_replace_view\":null,\"sql_procedure_function\":null,\"sql_truncate\":null,\"sql_delayed\":null,\"sql_ignore\":null,\"texytext_columns\":null}"}
+]
+}
+,{"type":"table","name":"pma__favorite","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__history","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__navigationhiding","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__pdf_pages","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__recent","database":"phpmyadmin","data":
+[
+{"username":"root","tables":"[{\"db\":\"ocams\",\"table\":\"management\"},{\"db\":\"ocams\",\"table\":\"addmission\"}]"}
+]
+}
+,{"type":"table","name":"pma__relation","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__savedsearches","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__table_coords","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__table_info","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__table_uiprefs","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__tracking","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__userconfig","database":"phpmyadmin","data":
+[
+{"username":"root","timevalue":"2022-06-01 02:27:25","config_data":"{\"Console\\\/Mode\":\"collapse\"}"}
+]
+}
+,{"type":"table","name":"pma__usergroups","database":"phpmyadmin","data":
+[
+
+]
+}
+,{"type":"table","name":"pma__users","database":"phpmyadmin","data":
+[
+
+]
+}
+{"type":"database","name":"test"},
+]
